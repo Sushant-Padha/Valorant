@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "viper lineups.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -89,8 +89,8 @@
   "active": "a5c9e77cccbd2c52",
   "lastOpenFiles": [
     "viper lineups.md",
-    "crosshair.md",
     "README.md",
+    "crosshair.md",
     "lineup.md",
     "guide.md",
     "HowToNoodle.md",
