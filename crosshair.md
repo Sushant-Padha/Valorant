@@ -16,6 +16,7 @@ Inner Lines	(Opacity, Length, Thickness, Offset) : 1 2 8 4
 Outer Lines	(Opacity, Length, Thickness, Offset) : 1 2 2 5
 ```
 NOTE: May not be exactly centered.
+
 ## CIRCLE CROSSHAIR
 ```
 Outlines										 : Off
