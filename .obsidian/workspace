@@ -13,6 +13,14 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "4d65157bf479b93c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "viper lineups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +93,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a5c9e77cccbd2c52",
+  "active": "4d65157bf479b93c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "viper lineups.md",
     "README.md",
     "crosshair.md",
