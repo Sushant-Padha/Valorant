@@ -5,8 +5,7 @@
 | [[Ascent]] | [[Killjoy]] | Atk | B Main | B Boathouse | [[Nanoswarm]] | [here](https://youtu.be/jElqq47XiCQ?t=263s) | *ult in main b/ box*<br>*always take B* |
 | [[Ascent]] | [[Jett]] | ANY | Top Catwalk | Mid Cubby | [[Tailwind]] | [here](https://youtu.be/shz9KqrKHOA) | *super dash* |
 | [[Ascent]] | [[Jett]] | ANY | Top Catwalk | Mid Pizza | [[Tailwind]] | [here](https://youtu.be/rqtAVnw_YA4) | *super dash* |
-| [[Ascent]] | [[Yoru]] | Atk | Mid Link | Mid Pizza | [[Gatecrash]] | [here](https://youtu.be/iRogkZy1wT8) | — |
-| [[Ascent]] | [[Yoru]] | Atk | Mid Link | Def Spawn | [[Gatecrash]] | [here](https://youtu.be/EhbtkFKWv00) | — |
+| [[Ascent]] | [[Yoru]] | Atk | Mid Link | Def Spawn | [[Gatecrash]] | [here](https://strats.gg/game/valorant/strategies/1629207751680) | — |
 | [[Ascent]] | [[Raze]] | Def | A Site | A Lobby | [[Boombot]] | [here](https://youtu.be/r7yCfa67pFM) | *clear till A lobby* |
 | [[Ascent]] | [[Raze]] | Def | Mid Market | B Lobby | [[Boombot]] | [here](https://youtu.be/0qbP_dk9uAY) | *clear till B lobby* |
 | ———— | ——— | —— | ——————— | ——————— | —————— | ——— | ————————— |
