@@ -14,4 +14,6 @@
 | [[Split]] | [[Viper]] | Atk | A Lobby | heaven plant A | [[Snake Bite]] | [here](https://youtu.be/o3DNqsv7crU) | easier than ^ |
 | [[Split]] | [[Killjoy]] | Atk | A Lobby | deep plant A | [[Nanoswarm]] | [here](https://youtu.be/fziovp2eCNM) | unbreakable |
 | ———— | ——— | —— | ——————— | —————— | —————— | ——— | ———————— |
-| [[Bind]] | [[Raze]] | Atk | B Market | B Hookah | [[Boombot]] | [here](https://youtu.be/https://www.youtube.com/channel/UCaLl_Km6fN6d_tqenVY4PFg?feature=emb_ch_name_ex) | — |
+| [[Bind]] | [[Raze]] | Atk | B Market | B Hookah | [[Boombot]] | [here](https://youtu.be/0BXuBC78iIM) | must use |
+| [[Bind]] | [[Raze]] | Atk | B Fountain | A Bathroom | [[Boombot]] | [here](https://youtu.be/3duFRhq0Ih8) | must use |
+| [[Bind]] | [[Raze]] | Atk | A Main | A Bathroom | [[Boombot]] | [here](https://youtu.be/3duFRhq0Ih8) | must use |
