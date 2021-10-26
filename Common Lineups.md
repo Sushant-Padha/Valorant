@@ -3,6 +3,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [[Ascent]] | [[Killjoy]] | Def | A Tree | A Wine | [[Nanoswarm]] | [here](https://youtu.be/kKdTChBxHz8?t=12s) | *ult in tree*<br>*always retake a site* |
 | [[Ascent]] | [[Killjoy]] | Atk | B Main | B Boathouse | [[Nanoswarm]] | [here](https://youtu.be/jElqq47XiCQ&t=263s) | *ult in main b/ box*<br>*always take b site* |
+| [[Ascent]] | [[Jett]] | ANY | Top Catwalk | Mid Cubby | [[Dash]] | [here](https://youtu.be/shz9KqrKHOA) | *super dash* |
 | ———— | ——— | —— | ——————— | ——————— | —————— | ——— | ———————— |
 | [[Bind]] | [[Raze]] | Atk | B Market | B Hookah | [[Boombot]] | [here](https://youtu.be/0BXuBC78iIM) | *must use* |
 | [[Bind]] | [[Raze]] | Atk | B Fountain | B Garden | [[Boombot]] | [here](https://youtu.be/s9S4RO4QkhY) | *must use* |
