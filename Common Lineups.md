@@ -2,7 +2,7 @@
 | Map | Agent | Side | From | To | Ability | Link | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [[Ascent]] | [[Killjoy]] | Def | A Tree | A Wine | [[Nanoswarm]] | [here](https://youtu.be/kKdTChBxHz8?t=12s) | *ult in tree*<br>*always retake a site* |
-| [[Ascent]] | [[Killjoy]] | Atk | B Main | B Boathouse | [[Nanoswarm]] | [here](https://youtu.be/jElqq47XiCQ&t=263s) | *ult in main b/ box*<br>*always take b site* |
+| [[Ascent]] | [[Killjoy]] | Atk | B Main | B Boathouse | [[Nanoswarm]] | [here](https://youtu.be/jElqq47XiCQ?t=263s) | *ult in main b/ box*<br>*always take b site* |
 | [[Ascent]] | [[Jett]] | ANY | Top Catwalk | Mid Cubby | [[Tailwind]] | [here](https://youtu.be/shz9KqrKHOA) | *super dash* |
 | [[Ascent]] | [[Jett]] | ANY | Top Catwalk | Mid Pizza | [[Tailwind]] | [here](https://youtu.be/rqtAVnw_YA4) | *super dash* |
 | [[Ascent]] | [[Yoru]] | Atk | Mid Link | Mid Pizza | [[Gatecrash]] | [here](https://youtu.be/iRogkZy1wT8) | — |
@@ -27,5 +27,6 @@
 | [[Split]] | [[Viper]] | Atk | A Lobby | default A | [[Snake Bite]] | [here](https://youtu.be/YZhxr2h8FM4) | — |
 | [[Split]] | [[Viper]] | Atk | A Lobby | heaven plant A | [[Snake Bite]] | [here](https://youtu.be/o3DNqsv7crU) | *easier than ^* |
 | [[Split]] | [[Killjoy]] | Atk | A Lobby | deep plant A | [[Nanoswarm]] | [here](https://youtu.be/fziovp2eCNM) | *unbreakable* |
+| [[Split]] | [[Yoru]] | Def | B Site | B Site | [[Gatecrash]] | [here](https://youtu.be/xlTXc7UXIz0?t=137s) | *GOOD fake tp* |
 | [[Split]] | [[Yoru]] | Atk | A Lobby | A Lobby | [[Gatecrash]] | [here](https://youtu.be/VInyj_448hk) | *fake tp* |
-| [[Split]] | [[Yoru]] | Def | B Site | B Site | [[Gatecrash]] | [here]() | *fake tp* |
+| [[Split]] | [[Yoru]] | Def | B Site | B Site | [[Gatecrash]] | [here](https://youtu.be/DmWrVsBIDVA) | *fake tp* |
