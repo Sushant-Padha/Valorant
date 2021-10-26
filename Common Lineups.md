@@ -27,4 +27,3 @@
 | [[Split]] | [[Viper]] | Atk | A Lobby | default A | [[Snake Bite]] | [here](https://youtu.be/YZhxr2h8FM4) | — |
 | [[Split]] | [[Viper]] | Atk | A Lobby | heaven plant A | [[Snake Bite]] | [here](https://youtu.be/o3DNqsv7crU) | *easier than ^* |
 | [[Split]] | [[Killjoy]] | Atk | A Lobby | deep plant A | [[Nanoswarm]] | [here](https://youtu.be/fziovp2eCNM) | *unbreakable* |
-| [[Split]] | [[Yoru]] | Atk | A Main | Def Spawn | [[Gatecrash]] | [here](https://youtu.be/gWgrGqS94II) | — |
