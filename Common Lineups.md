@@ -8,3 +8,6 @@
 | [[Icebox]] | [[Viper]] | Atk | A Pipes | default A | [[Snake Bite]] | [here](https://youtu.be/idByKeMPbGM) |
 | [[Icebox]] | [[Viper]] | Atk | behind A Belt | Box on A Site | [[Poison Cloud]] | [here](https://youtu.be/4gAJXkKlb9o) |
 | [[Icebox]] | [[Viper]] | Atk | B Green | default B | [[Snake Bite]] | [here](https://youtu.be/HH3TVFfEY2c) |
+| ———— | ——— | —— | ——————— | —————— | —————— | ——— |
+| [[Split]] | [[Viper]] | Atk | B Lobby | default B | [[Snake Bite]] | [here](https://youtu.be/GrLRH4Fq5aA) |
+| [[Split]] | [[Viper]] | Atk | B Lobby | default B | [[Snake Bite]] | [here](https://youtu.be/GrLRH4Fq5aA) |
