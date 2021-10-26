@@ -18,4 +18,6 @@
 | [[Bind]] | [[Raze]] | Atk | B Fountain | B Garden | [[Boombot]] | [here](https://youtu.be/s9S4RO4QkhY) | *must use* |
 | [[Bind]] | [[Raze]] | Atk | A Main | A Bathroom | [[Boombot]] | [here](https://youtu.be/3duFRhq0Ih8) | *must use* |
 | ———— | ——— | —— | ——————— | ——————— | —————— | ——— | ———————— |
-| [[Haven]] | [[Sova]] | Def | C CT Spawn | C Site | [[Recon Dart]] | [here](https://youtu.be/xYFyMStFXEg&t=10s) | *god dart (do charge* |
+| [[Haven]] | [[Sova]] | Def | C CT Spawn | C Site | [[Recon Dart]] | [here](https://youtu.be/xYFyMStFXEg&t=10s) | *god dart (2 bar)* |
+| ———— | ——— | —— | ——————— | ——————— | —————— | ——— | ———————— |
+| [[Ascent]] | [[Killjoy]] | Def | A Tree | A Wine | [[Nanoswarm]] | [here](https://youtu.be/0BXuBC78iIM) | *use with ult in tree* |
