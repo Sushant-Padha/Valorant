@@ -6,7 +6,5 @@ repository for my valorant notes
 ### MAPS
 [[Ascent]] [[Bind]] [[Breeze]] [[Fracture]] [[Haven]] [[Icebox]] [[Split]]
 ### AGENTS
-
+[[Astra]] [[Breach]] [[Brimstone]] [[Cypher]] [[Jett]] [[KAY/O]] [[Killjoy]] [[Omen]] [[Phoenix]] [[Raze]] [[Reyna]] [[Sage]] [[Skye]] [[Sova]] [[Viper]] [[Yoru]] [[Deadeye]]
 ### ABILITIES
-
-[[Nanoswarm]][[Tailwind]] [[Yoru]] [[Gatecrash]] [[Raze]] [[Boombot]] [[Viper]] [[Snake Bite]] [[Poison Cloud]][[Sova]] [[Recon Dart]] 
