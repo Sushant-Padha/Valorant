@@ -18,7 +18,8 @@
 | [[Bind]] | [[Raze]] | Atk | B Fountain | B Garden | [[Boombot]] | [here](https://youtu.be/s9S4RO4QkhY) | *must use* |
 | [[Bind]] | [[Raze]] | Atk | A Main | A Bathroom | [[Boombot]] | [here](https://youtu.be/3duFRhq0Ih8) | *must use* |
 | ———— | ——— | —— | ——————— | ——————— | —————— | ——— | ———————— |
-| [[Haven]] | [[Sova]] | Def | C CT Spawn | C Site | [[Recon Dart]] | [here](https://youtu.be/xYFyMStFXEg&t=10s) | *god dart (2 bar)* |
+| [[Haven]] | [[Sova]] | Def | C CT Spawn | C Site | [[Recon Dart]] | [here](https://youtu.be/xYFyMStFXEg?t=10s) | *god dart (2 bar)* |
+| [[Haven]] | [[Sova]] | Atk | C Long | C Site | [[Recon Dart]] | [here](https://youtu.be/UWLB6I4UbgI?t=11s) | *god dart (2 bar)* |
 | ———— | ——— | —— | ——————— | ——————— | —————— | ——— | ———————— |
 | [[Ascent]] | [[Killjoy]] | Def | A Tree | A Wine | [[Nanoswarm]] | [here](https://youtu.be/kKdTChBxHz8?t=12s) | *ult in tree*<br>*always retake a site* |
 | [[Ascent]] | [[Killjoy]] | Atk | B Main | B Boathouse | [[Nanoswarm]] | [here](https://youtu.be/jElqq47XiCQ&t=263s) | *ult in main b/ box*<br>*always take b site* |
