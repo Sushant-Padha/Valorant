@@ -11,5 +11,7 @@
 | ———— | ——— | —— | ——————— | —————— | —————— | ——— | ———————— |
 | [[Split]] | [[Viper]] | Atk | B Lobby | default B | [[Snake Bite]] | [here](https://youtu.be/GrLRH4Fq5aA) | — |
 | [[Split]] | [[Viper]] | Atk | A Lobby | default A | [[Snake Bite]] | [here](https://youtu.be/YZhxr2h8FM4) | — |
-| [[Split]] | [[Viper]] | Atk | A Lobby | heaven plant A | [[Snake Bite]] | [here](https://youtu.be/o3DNqsv7crU) | easier than |
+| [[Split]] | [[Viper]] | Atk | A Lobby | heaven plant A | [[Snake Bite]] | [here](https://youtu.be/o3DNqsv7crU) | easier than ^ |
 | [[Split]] | [[Killjoy]] | Atk | A Lobby | deep plant A | [[Nanoswarm]] | [here](https://youtu.be/fziovp2eCNM) | unbreakable |
+| ———— | ——— | —— | ——————— | —————— | —————— | ——— | ———————— |
+| [[Bind]] | [[Raze]] | Atk | B Market | B Hookah | [[Boombot]] | [here](https://youtu.be/https://www.youtube.com/channel/UCaLl_Km6fN6d_tqenVY4PFg?feature=emb_ch_name_ex) | — |
