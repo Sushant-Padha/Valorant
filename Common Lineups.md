@@ -10,4 +10,5 @@
 | [[Icebox]] | [[Viper]] | Atk | B Green | default B | [[Snake Bite]] | [here](https://youtu.be/HH3TVFfEY2c) |
 | ———— | ——— | —— | ——————— | —————— | —————— | ——— |
 | [[Split]] | [[Viper]] | Atk | B Lobby | default B | [[Snake Bite]] | [here](https://youtu.be/GrLRH4Fq5aA) |
-| [[Split]] | [[Viper]] | Atk | B Lobby | default B | [[Snake Bite]] | [here](https://youtu.be/GrLRH4Fq5aA) |
+| [[Split]] | [[Viper]] | Atk | A Lobby | default A | [[Snake Bite]] | [here](https://youtu.be/YZhxr2h8FM4) |
+| [[Split]] | [[Viper]] | Atk | A Lobby | heaven plant A | [[Snake Bite]] | [here](https://youtu.be/o3DNqsv7crU) |
