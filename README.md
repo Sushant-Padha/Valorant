@@ -6,7 +6,8 @@ repository for my valorant notes
 ### MAPS
 [[Ascent]] [[Bind]] [[Breeze]] [[Fracture]] [[Haven]] [[Icebox]] [[Split]]
 ### AGENTS
-[[Astra]] [[Breach]] [[Brimstone]] [[Cypher]] [[Jett]] [[KAY/O]] [[Killjoy]] [[Omen]] [[Phoenix]] [[Raze]] [[Reyna]] [[Sage]] [[Skye]] [[Sova]] [[Viper]] [[Yoru]] [[Deadeye]]
+[[Astra]] [[Breach]] [[Brimstone]] [[Cypher]] [[Jett]] [[KAY/O]] [[Killjoy]] [[Omen]] [[Phoenix]]  
+[[Raze]] [[Reyna]] [[Sage]] [[Skye]] [[Sova]] [[Viper]] [[Yoru]] [[Deadeye]]
 ### ABILITIES
 [[Gravity Well]], [[Nova Pulse]], [[Nebula]], [[Cosmic Divide]]  
 [[Incindiary]], [[Stim Beacon]], [[Sky Smoke]], [[Orbital Strike]]  
