@@ -20,4 +20,5 @@
 | ———— | ——— | —— | ——————— | ——————— | —————— | ——— | ———————— |
 | [[Haven]] | [[Sova]] | Def | C CT Spawn | C Site | [[Recon Dart]] | [here](https://youtu.be/xYFyMStFXEg&t=10s) | *god dart (2 bar)* |
 | ———— | ——— | —— | ——————— | ——————— | —————— | ——— | ———————— |
-| [[Ascent]] | [[Killjoy]] | Def | A Tree | A Wine | [[Nanoswarm]] | [here](https://youtu.be/kKdTChBxHz8?t=12s) | *use with ult in tree*<br>*always retake a site* |
+| [[Ascent]] | [[Killjoy]] | Def | A Tree | A Wine | [[Nanoswarm]] | [here](https://youtu.be/kKdTChBxHz8?t=12s) | *ult in tree*<br>*always retake a site* |
+| [[Ascent]] | [[Killjoy]] | Atk | B Main | B Boathouse | [[Nanoswarm]] | [here](https://youtu.be/jElqq47XiCQ&t=263s) | *ult in main b/ box*<br>*always take b site* |
