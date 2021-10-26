@@ -14,7 +14,8 @@
 | [[Bind]] | [[Yoru]] | Def | B Hookah | B Hookah | [[Gatecrash]] | [here](https://youtu.be/xlTXc7UXIz0?t=118s) | *fake tp* |
 | [[Bind]] | [[Yoru]] | Def | B Site | B Site | [[Gatecrash]] | [here](https://youtu.be/nQa4Y0LvzPk?t=14s) | *fake tp* |
 | [[Bind]] | [[Yoru]] | Def | A Short | A Short | [[Gatecrash]] | [here](https://youtu.be/nQa4Y0LvzPk?t=46s) | *fake tp* |
-| [[Bind]] | [[Yoru]] | Def | A Short | A Short | [[Gatecrash]] | [here](https://youtu.be/nQa4Y0LvzPk?t=46s) | *fake tp* |
+| [[Bind]] | [[Yoru]] | Def | A Short | A Short | [[Gatecrash]] | [here](https://youtu.be/nQa4Y0LvzPk?t=57s) | *fake tp* |
+| [[Bind]] | [[Yoru]] | Def | B Long | B Long | [[Gatecrash]] | [here](https://youtu.be/nQa4Y0LvzPk?t=71s) | *fake tp* |
 | ———— | ——— | —— | ——————— | ——————— | —————— | ——— | ————————— |
 | [[Breeze]] | [[Viper]] | Atk | A Main | default A | [[Snake Bite]] | [here](https://youtu.be/Pc-hjkobSA8) | — |
 | [[Breeze]] | [[Viper]] | Atk | B Window | default B | [[Snake Bite]] | [here](https://youtu.be/CHKL5y0qTeE) | — |
