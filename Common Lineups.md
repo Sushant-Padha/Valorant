@@ -29,6 +29,8 @@
 | [[Icebox]] | [[Viper]] | Atk | A Pipes | default A | [[Snake Bite]] | [here](https://youtu.be/idByKeMPbGM) | — |
 | [[Icebox]] | [[Viper]] | Atk | behind A Belt | Box on A Site | [[Poison Cloud]] | [here](https://youtu.be/4gAJXkKlb9o) | *blocks all spots* |
 | [[Icebox]] | [[Viper]] | Atk | B Green | default B | [[Snake Bite]] | [here](https://youtu.be/HH3TVFfEY2c) | — |
+| [[Icebox]] | [[Viper]] | Def | B Site | B Green | [[Poison Cloud]] | [here](https://youtu.be/LpDdCCvNVxY?t=579s) | *one way smoke* |
+| [[Icebox]] | [[Viper]] | Def | B Site | B Green | [[Poison Cloud]] | [here](https://youtu.be/LpDdCCvNVxY?t=579s) | *one way smoke* |
 | ———— | ——— | —— | ——————— | ——————— | —————— | ——— | ————————— |
 | [[Split]] | [[Viper]] | Atk | B Lobby | default B | [[Snake Bite]] | [here](https://youtu.be/GrLRH4Fq5aA) | — |
 | [[Split]] | [[Viper]] | Atk | A Lobby | default A | [[Snake Bite]] | [here](https://youtu.be/YZhxr2h8FM4) | — |
