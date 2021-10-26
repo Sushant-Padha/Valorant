@@ -7,6 +7,7 @@
 | [[Ascent]] | [[Jett]] | ANY | Top Catwalk | Mid Pizza | [[Tailwind]] | [here](https://youtu.be/rqtAVnw_YA4) | *super dash* |
 | [[Ascent]] | [[Yoru]] | Atk | Mid Link | Mid Pizza | [[Gatecrash]] | [here](https://youtu.be/iRogkZy1wT8) | — |
 | [[Ascent]] | [[Yoru]] | Atk | Mid Link | Def Spawn | [[Gatecrash]] | [here](https://youtu.be/EhbtkFKWv00) | — |
+| [[Ascent]] | [[Raze]] | Def | A Site | A Lobby | [[Boombot]] | [here](https://youtu.be/r7yCfa67pFM) | *clear till A lobby* |
 | ———— | ——— | —— | ——————— | ——————— | —————— | ——— | ————————— |
 | [[Bind]] | [[Raze]] | Atk | B Market | B Hookah | [[Boombot]] | [here](https://youtu.be/0BXuBC78iIM) | — |
 | [[Bind]] | [[Raze]] | Atk | B Fountain | B Garden | [[Boombot]] | [here](https://youtu.be/s9S4RO4QkhY) | — |
