@@ -11,7 +11,10 @@
 | [[Bind]] | [[Raze]] | Atk | B Market | B Hookah | [[Boombot]] | [here](https://youtu.be/0BXuBC78iIM) | — |
 | [[Bind]] | [[Raze]] | Atk | B Fountain | B Garden | [[Boombot]] | [here](https://youtu.be/s9S4RO4QkhY) | — |
 | [[Bind]] | [[Raze]] | Atk | A Main | A Bathroom | [[Boombot]] | [here](https://youtu.be/3duFRhq0Ih8) | — |
-| [[Bind]] | [[Yoru]] | Def | B Hookah | B Hookah | [[Gatecrash]] | [here](https://youtu.be/xlTXc7UXIz0?t=118s) | *GOOD fake tp* |
+| [[Bind]] | [[Yoru]] | Def | B Hookah | B Hookah | [[Gatecrash]] | [here](https://youtu.be/xlTXc7UXIz0?t=118s) | *fake tp* |
+| [[Bind]] | [[Yoru]] | Def | B Site | B Site | [[Gatecrash]] | [here](https://youtu.be/nQa4Y0LvzPk?t=14s) | *fake tp* |
+| [[Bind]] | [[Yoru]] | Def | A Short | A Short | [[Gatecrash]] | [here](https://youtu.be/nQa4Y0LvzPk?t=46s) | *fake tp* |
+| [[Bind]] | [[Yoru]] | Def | A Short | A Short | [[Gatecrash]] | [here](https://youtu.be/nQa4Y0LvzPk?t=46s) | *fake tp* |
 | ———— | ——— | —— | ——————— | ——————— | —————— | ——— | ————————— |
 | [[Breeze]] | [[Viper]] | Atk | A Main | default A | [[Snake Bite]] | [here](https://youtu.be/Pc-hjkobSA8) | — |
 | [[Breeze]] | [[Viper]] | Atk | B Window | default B | [[Snake Bite]] | [here](https://youtu.be/CHKL5y0qTeE) | — |
