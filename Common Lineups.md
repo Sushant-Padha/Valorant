@@ -8,6 +8,7 @@
 | [[Ascent]] | [[Yoru]] | Atk | Mid Link | Mid Pizza | [[Gatecrash]] | [here](https://youtu.be/iRogkZy1wT8) | — |
 | [[Ascent]] | [[Yoru]] | Atk | Mid Link | Def Spawn | [[Gatecrash]] | [here](https://youtu.be/EhbtkFKWv00) | — |
 | [[Ascent]] | [[Raze]] | Def | A Site | A Lobby | [[Boombot]] | [here](https://youtu.be/r7yCfa67pFM) | *clear till A lobby* |
+| [[Ascent]] | [[Raze]] | Def | Mid Market | B Lobby | [[Boombot]] | [here](https://youtu.be/0qbP_dk9uAY) | *clear till B lobby* |
 | ———— | ——— | —— | ——————— | ——————— | —————— | ——— | ————————— |
 | [[Bind]] | [[Raze]] | Atk | B Market | B Hookah | [[Boombot]] | [here](https://youtu.be/0BXuBC78iIM) | — |
 | [[Bind]] | [[Raze]] | Atk | B Fountain | B Garden | [[Boombot]] | [here](https://youtu.be/s9S4RO4QkhY) | — |
@@ -32,6 +33,7 @@
 | [[Split]] | [[Viper]] | Atk | B Lobby | default B | [[Snake Bite]] | [here](https://youtu.be/GrLRH4Fq5aA) | — |
 | [[Split]] | [[Viper]] | Atk | A Lobby | default A | [[Snake Bite]] | [here](https://youtu.be/YZhxr2h8FM4) | — |
 | [[Split]] | [[Viper]] | Atk | A Lobby | heaven plant A | [[Snake Bite]] | [here](https://youtu.be/o3DNqsv7crU) | *easier than ^* |
+| [[Split]] | [[Viper]] | Def | A Heaven | A Heaven | [[Poison Cloud]] | [here](https://strats.gg/game/valorant/strategies/1634505143880) | *one way smoke* |
 | [[Split]] | [[Killjoy]] | Atk | A Lobby | deep plant A | [[Nanoswarm]] | [here](https://youtu.be/fziovp2eCNM) | *unbreakable* |
 | [[Split]] | [[Yoru]] | Def | B Site | B Site | [[Gatecrash]] | [here](https://youtu.be/xlTXc7UXIz0?t=137s) | *GOOD fake tp* |
 | [[Split]] | [[Yoru]] | Atk | A Lobby | A Lobby | [[Gatecrash]] | [here](https://youtu.be/VInyj_448hk) | *fake tp* |
