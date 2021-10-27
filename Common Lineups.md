@@ -30,6 +30,7 @@
 | [[Icebox]] | [[Viper]] | Atk | B Green | default B | [[Snake Bite]] | [↗](https://youtu.be/HH3TVFfEY2c) | — |
 | [[Icebox]] | [[Viper]] | Def | B Site | B Green | [[Poison Cloud]] | [↗](https://youtu.be/LpDdCCvNVxY?t=579s) | *one way smoke* |
 | [[Icebox]] | [[Viper]] | Def | B Site | B Green | [[Poison Cloud]] | [↗](https://youtu.be/LpDdCCvNVxY?t=579s) | *one way smoke* |
+| [[Icebox]] | [[Jett]] | ANY | Mid Tube | Mid Tube | [[Updraft]] | [↗](https://youtu.be/pWFABCD-qus?t=191s) | *jett pixel spot* |
 | ———— | ——— | —— | ——————— | ——————— | —————— | —— | ————————— |
 | [[Split]] | [[Viper]] | Atk | B Lobby | default B | [[Snake Bite]] | [↗](https://youtu.be/GrLRH4Fq5aA) | — |
 | [[Split]] | [[Viper]] | Atk | A Lobby | default A | [[Snake Bite]] | [↗](https://youtu.be/YZhxr2h8FM4) | — |
