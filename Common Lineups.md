@@ -40,3 +40,4 @@
 | [[Split]] | [[Yoru]] | Atk | A Lobby | A Lobby | [[Gatecrash]] | [↗](https://youtu.be/VInyj_448hk) | *fake tp* |
 | [[Split]] | [[Yoru]] | Def | B Site | B Site | [[Gatecrash]] | [↗](https://youtu.be/DmWrVsBIDVA) | *fake tp* |
 | [[Split]] | [[Raze]] | Atk | Mid | B Heaven | [[Boombot]] | [↗](https://youtu.be/RMxE9GNFuSM) | — |
+| [[Split]] | [[Jett]] | ANY | A Screens | A Screens | [[Updraft]] | [↗](https://youtu.be/pWFABCD-qus?t=8s) | *jett pixel spot* |
