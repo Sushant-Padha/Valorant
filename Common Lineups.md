@@ -1,4 +1,6 @@
 # Common [[LINEUP]]S
+Edited by Sushant, 9:39 27/10/2021
+
 | Map | Agent | Side | From | To | Ability | Link | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [[Ascent]] | [[Killjoy]] | Def | A Tree | A Wine | [[Nanoswarm]] | [↗](https://youtu.be/kKdTChBxHz8?t=12s) | *ult in tree*<br>*always retake A* |
