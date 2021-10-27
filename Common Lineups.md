@@ -21,7 +21,7 @@ Edited by Sushant, 9:39 27/10/2021
 | [[Bind]] | [[Yoru]] | Def | B Long | B Long | [[Gatecrash]] | [↗](https://youtu.be/nQa4Y0LvzPk?t=71s) | *fake tp* |
 | ———— | ——— | —— | ——————— | ——————— | —————— | —— | ————————— |
 | [[Breeze]] | [[Viper]] | Atk | A Main | default A | [[Snake Bite]] | [↗](https://strats.gg/game/valorant/strategies/1632914092482) | — |
-| [[Breeze]] | [[Viper]] | Atk | B Cannon | default B | [[Snake Bite]] | [↗]() | — |
+| [[Breeze]] | [[Viper]] | Atk | B Cannon | default B | [[Snake Bite]] | [↗](https://strats.gg/game/valorant/strategies/1633017856593) | — |
 | [[Breeze]] | [[Viper]] | Atk | B Elbow | Mid Nest | [[Poison Cloud]] | [↗](https://youtu.be/LKnLy1qjUX4) | — |
 | ———— | ——— | —— | ——————— | ——————— | —————— | —— | ————————— |
 | [[Haven]] | [[Sova]] | Def | C CT Spawn | C Site | [[Recon Dart]] | [↗](https://youtu.be/xYFyMStFXEg?t=10s) | *god dart (2 bar)* |
