@@ -25,6 +25,11 @@ $$
 a &= {39 \pm 15 \over 2} \\
 &= 27, 12 \\
 \\
-\implies b &= 39 - a \tag{From }
+\implies b &= 39 - a \tag{From (1)} \\
+&= 12, 27
 \end{align}
+$$
+Hence, either
+$$
+a = 27,~b = 12 \quad \text{or,} \quad a=12,~b=27
 $$
