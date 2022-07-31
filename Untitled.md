@@ -14,7 +14,8 @@ $$
 &= (a + b)^2 - 4ab \\
 &= (39)^2 - 4(324) \tag{From (1) and (2)} \\
 &= 225
-
-\therefore
 \end{align}
+$$
+$$
+\therefore~~~ a - b = \pm15
 $$
