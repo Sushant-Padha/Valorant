@@ -17,5 +17,14 @@ $$
 \end{align}
 $$
 $$
-\therefore~~~ a - b = \pm15
+\therefore~~~ a - b = \pm15 \tag{3}
+$$
+Adding eq (1) and (3),
+$$
+\begin{align}
+a &= {39 \pm 15 \over 2} \\
+&= 27, 12 \\
+\\
+\implies b &= 39 - a \tag{From }
+\end{align}
 $$
